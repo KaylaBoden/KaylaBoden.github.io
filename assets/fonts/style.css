@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Pure-ThinDuranGo';
+   font-display: swap;
+   src: url('Pure-ThinDuranGo/font.ttf');
+}
+@font-face {
+   font-family: 'Young';
+   font-display: swap;
+   src: url('Young/font.ttf');
+}
