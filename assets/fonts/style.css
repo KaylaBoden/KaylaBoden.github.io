@@ -4,6 +4,11 @@
    src: url('Pure-ThinDuranGo/font.ttf');
 }
 @font-face {
+   font-family: 'Photograph Signature';
+   font-display: swap;
+   src: url('Photograph Signature/font.ttf');
+}
+@font-face {
    font-family: 'Young';
    font-display: swap;
    src: url('Young/font.ttf');
